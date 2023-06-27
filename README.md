@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @GuardME
-- 👀 I’m interested in AI
-- 🌱 I’m currently Working in Ditjen PSDKP
+foolish programmer :P
